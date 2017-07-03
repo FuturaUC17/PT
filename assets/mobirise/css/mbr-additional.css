@@ -1,6 +1,7 @@
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+
 
 
 
@@ -55,12 +56,6 @@ h6,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
   font-family: 'Montserrat', sans-serif;
-}
-.btn {
-  border-radius: 1.6em;
-}
-.mbr-subscribe .btn {
-  border-radius: 1.6em !important;
 }
 .btn-sm,
 .lead a,
@@ -684,8 +679,8 @@ h6,
 }
 #menu-3 .navbar-caption {
   color: #ffffff;
-  font-family: 'Lora', serif;
-  font-size: 17px;
+  font-family: 'Merriweather', serif;
+  font-size: 19px;
 }
 #menu-3 .navbar-toggler {
   color: #000000;
@@ -697,7 +692,7 @@ h6,
 #menu-3 .link,
 #menu-3 .dropdown-item {
   color: #000000;
-  font-family: 'Lora', serif;
+  font-family: 'Merriweather', serif;
 }
 #menu-3 .link {
   font-size: 0.95rem;
@@ -748,14 +743,15 @@ h6,
 }
 #extHeader10-2 H3 {
   text-align: center;
-  font-family: 'Lora', serif;
+  font-family: 'Merriweather', serif;
   font-size: 60px;
   color: #ffffff;
 }
 #extHeader10-2 SPAN {
   font-size: 25px;
   color: #ffffff;
+  font-family: 'Merriweather', serif;
 }
 #extHeader10-2 .btn {
-  font-family: 'Lora', serif;
+  font-family: 'Merriweather', serif;
 }
